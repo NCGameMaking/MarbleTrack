@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 11.23h | 1 |
+| Week 2 | Tier 1 | 5.62h | 1 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ### 2026-10-18 – # Worked on the Marble Track after learning how to CAD
 
-**11.23h**
+**5.62h**
 
 # Worked on the Marble Track after learning how to CAD
 
