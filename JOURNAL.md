@@ -10,16 +10,18 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 5.62h | 1 |
+| Week 2 | Tier 1 | 11.23h | 1 |
 
 ## Contents
 
-1. [2026-10-18 – Work session](#2026-10-18-work-session)
+1. [2026-10-18 – # Worked on the Marble Track after learning how to CAD](#2026-10-18-worked-on-the-marble-track-after-learning-how-to-)
 
 ## Design
 
-### 2026-10-18 – Work session
+### 2026-10-18 – # Worked on the Marble Track after learning how to CAD
 
-**5.62h**
+**11.23h**
+
+# Worked on the Marble Track after learning how to CAD
 
 [Timelapse](https://lookout.hackclub.com/api/media/51fe1285-1c5d-46cb-9e98-cc43efc73380/video.mp4)
