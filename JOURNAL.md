@@ -28,9 +28,9 @@ I never CADDED before, it is my first time ever, but I managed in the end. At fi
 
 One thing I am not sure about is how I can make the  sketch go between planes like how the tutorial did so. I don't know how to like make it work. I tried and tried (I did this at school, so I couldnt lapse it, but in the end I just left the other side cause i couldn't make it in time.
 
-![Screenshot 2026-10-18 183205](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/H1UNfKeiXo6fn4gM7gioqmiooX6DUU7w/15471b74698284b8f5295e4d22bd5499fcb97a4ec613a5dbbb5dd0eb63de058b.png)
+![Screenshot 2026-10-18 183205](https://halflife.hackclub-assets.com/sessions/H1UNfKeiXo6fn4gM7gioqmiooX6DUU7w/15471b74698284b8f5295e4d22bd5499fcb97a4ec613a5dbbb5dd0eb63de058b.png)
 
-![Screenshot 2026-10-19 102330](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/H1UNfKeiXo6fn4gM7gioqmiooX6DUU7w/058024b6931aa24c2e5d04a721116d9365d29adc647e574502895ceda422f258.png)
+![Screenshot 2026-10-19 102330](https://halflife.hackclub-assets.com/sessions/H1UNfKeiXo6fn4gM7gioqmiooX6DUU7w/058024b6931aa24c2e5d04a721116d9365d29adc647e574502895ceda422f258.png)
 
 )
 
